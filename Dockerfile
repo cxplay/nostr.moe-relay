@@ -9,5 +9,4 @@ COPY config.toml .
 
 EXPOSE 8080
 
-ENTRYPOINT [ "./rnostr" ]
-CMD [ "relay", "--watch", "-c", "./config.toml" ]
+CMD [ "./rnostr", "relay", "--watch", "-c", "./config.toml" ]
