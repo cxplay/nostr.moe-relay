@@ -21,7 +21,7 @@ db_query_timeout = "100ms"
 # config network
 [network]
 # Interface to listen on. Use 0.0.0.0 to listen on all interfaces (restart required)
-host = "127.0.0.1"
+host = "0.0.0.0"
 # Listen port (restart required)
 port = 8080
 
