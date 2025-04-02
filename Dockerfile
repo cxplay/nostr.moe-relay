@@ -1,4 +1,4 @@
-FROM scratch
+FROM alpine
 WORKDIR /app/rnostr
 
 # rnostr_v0.4.7-933d3f9_aarch64-unknown-linux-gnu
