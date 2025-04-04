@@ -4,7 +4,7 @@
 # config relay information
 [information]
 name = "Nostr.moe Relay"
-description = "Power by rnostr."
+description = "Powered by rnostr."
 software = "https://github.com/rnostr/rnostr"
 pubkey = "434f97993627f1e61f14eeaf60caa8cfdcec10a592caff8250c825252d548c15"
 contact = "https://www.cxplay.org/"
