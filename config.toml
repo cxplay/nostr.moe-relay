@@ -104,7 +104,8 @@ ip_blacklist = [
 event_pubkey_whitelist = [
                           "434f97993627f1e61f14eeaf60caa8cfdcec10a592caff8250c825252d548c15",
                           "3b70689a51122b4f58f63593b1be3d7fd72bc00fae973bb40f2fb74dc1e351eb",
-                          "97eafcb1b8438d56d2a3309c6faf08ae61be618a65c87b6a295549ea773ac29d"
+                          "97eafcb1b8438d56d2a3309c6faf08ae61be618a65c87b6a295549ea773ac29d",
+                          "32faf94b469aa90acf4b583df764c814efe1bae60fd3fc21b07de58713ae1187"
                          ]
 # event_pubkey_blacklist = ["xxxx"]
 
